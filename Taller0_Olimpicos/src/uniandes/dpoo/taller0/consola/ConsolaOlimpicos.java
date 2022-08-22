@@ -109,7 +109,7 @@ public class ConsolaOlimpicos
 	}
 
 	
-	public String ejecuarPaisAtletaespecifico() //taller 1
+	public void ejecuarPaisAtletaespecifico() //taller 1
 	{
 		System.out.println("\n" + "Busqueda de atleta por pais" + "\n" );
 		
